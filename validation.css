@@ -1,4 +1,4 @@
-body{
+body {
   align:center;
 }
 h1 {
@@ -9,7 +9,7 @@ list-style: none;
 margin-bottom: 5px;
 }
 
-form ul li label{
+form ul li label {
 float: left;
 clear: left;
 width: 100px;
